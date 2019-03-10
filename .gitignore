@@ -1,2 +1,4 @@
 *.py[cwo]
 *.sw[op]
+env/
+__pycache__
