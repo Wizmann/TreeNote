@@ -13,7 +13,7 @@ class Parser(object):
 
         return {
             'html': html,
-            'meta': md.Meta
+            'meta': md.Meta,
         }
 
 

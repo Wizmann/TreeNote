@@ -3,7 +3,7 @@
 CONTENT_DIR = ''
 OUTPUT_DIR = ''
 
-NOTEBOOK_PREFIX = 'dir'
-TAG_PREFIX = 'tag'
+PATH_INDEX = 'path.json'
+TAG_INDEX = 'tag.json'
 CONTENT_PREFIX = 'content'
 
